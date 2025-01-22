@@ -10,7 +10,6 @@ This repository showcases a sample ToDo gRPC alongside http json transcoding ser
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
 - [License](#license)
-- [Support](#support)
 
 ## Getting Started
 
@@ -44,7 +43,7 @@ This template follows layered Architecture, leveraging gRPC for efficient commun
 - **Built with .NET 8**: Utilizes the latest features for efficient development.
 - **gRPC**: Efficient communication protocol for service interactions.
 - **Http**: Restful Api Calling.
-- **SQLite**: Powerful relational database for data storage.
+- **SQLite**: Powerful relational database for data storage lightweight and serverless.
 - **EF Core**: Popular .NET ORM.
 
 ## Technologies Used
