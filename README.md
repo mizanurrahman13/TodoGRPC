@@ -68,6 +68,6 @@ Contributions are what make the open-source community such an amazing place to l
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-### Credit
+## Credit
 
 a million thanks to **binarythistle** Les Jackson for his simple presentation.
