@@ -10,6 +10,7 @@ This repository showcases a sample ToDo gRPC alongside http json transcoding ser
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
 - [License](#license)
+- [credit](#credit)
 
 ## Getting Started
 
@@ -66,5 +67,7 @@ Contributions are what make the open-source community such an amazing place to l
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
+
+### Credit
 
 a million thanks to **binarythistle** Les Jackson for his simple presentation.
