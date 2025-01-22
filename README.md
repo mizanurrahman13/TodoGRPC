@@ -1,5 +1,5 @@
 
-# ToDoGrpc Service with .NET 8, gRPC, Sqllite
+# ToDoGrpc Service with .NET 8, gRPC, SQLite
 
 This repository showcases a sample ToDo gRPC alongside http json transcoding service with .NET 8 for efficient communication.
 
