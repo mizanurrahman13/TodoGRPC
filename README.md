@@ -10,7 +10,7 @@ This repository showcases a sample ToDo gRPC alongside http json transcoding ser
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
 - [License](#license)
-- [credit](#credit)
+- [Credit](#credit)
 
 ## Getting Started
 
